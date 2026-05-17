@@ -1,10 +1,4 @@
-# Projeto-Fiap-Python
+# Python Development - FIAP
 
-  
-<h2 align="center"> Tela admin com Django-admin </h2> 
-<img  width="972" height="774" alt="Captura de tela 2026-03-27 205906" src="https://github.com/user-attachments/assets/e3c8907f-951d-4307-a0d3-8e92dbee5d45" />
+<img width="1227" height="851" alt="Captura de tela 2026-05-17 140554" src="https://github.com/user-attachments/assets/3eacaa49-d66e-4422-8871-e3746ee3bde9" />
 
-  <br clear="both">
-
-<h2 align="center"> Painel admin </h2>
-<img  width="1776" height="892" alt="Captura de tela 2026-03-26 021325" src="https://github.com/user-attachments/assets/a4e522a7-6576-408a-8c47-3f114aabfe38" />
