@@ -81,7 +81,7 @@ cd Python_FIAP
 Execute:
 
 ```bash
-python dados.py
+python manipulação_agenda.py
 ```
 
 ---
