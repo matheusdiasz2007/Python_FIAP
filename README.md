@@ -33,23 +33,23 @@ O sistema permite cadastrar, editar, excluir e exportar contatos diretamente pel
 
 ## ⚙️ Funcionalidades
 
-✅ Adicionar contatos
+- Adicionar contatos
 
-✅ Adicionar múltiplos telefones e e-mails
+- Adicionar múltiplos telefones e e-mails
 
-✅ Alterar nome de contatos
+- Alterar nome de contatos
 
-✅ Editar formas de contato
+- Editar formas de contato
 
-✅ Excluir contatos
+- Excluir contatos
 
-✅ Exportar agenda para TXT
+- Exportar agenda para TXT
 
-✅ Exportar agenda para JSON
+- Exportar agenda para JSON
 
-✅ Importar agenda via JSON
+- Importar agenda via JSON
 
-✅ Exibição organizada dos dados
+- Exibição organizada dos dados
 
 ---
 
